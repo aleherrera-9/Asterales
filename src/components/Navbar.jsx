@@ -1,7 +1,12 @@
+import CartWidget from './CartWidget';
+import image from './logoseguros.png';
 const Navbar = () => {
     return (
+        <>
         <div className="navBackground">
-            <ul className="nav justify-content-center ">
+            <img className="nav-imagen"src={image}/>
+            <CartWidget/>
+            <ul className="nav justify-content-center">
                 <li className="nav-item">
                     <a className="nav-link active" aria-current="page" href="#" >Seguros</a>
                 </li>
@@ -21,7 +26,10 @@ const Navbar = () => {
                     <a className="nav-link disable" href="#">Contacto</a>
                 </li>
             </ul>
+           
         </div>
+        
+        </>
         
     );
 }
