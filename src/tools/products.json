@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Seguro Automovilistico",
+        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/vehicle-insurance.jpg",     
+        "position":1
+    },
+    {
+        "id": 2,
+        "name": "Seguro para Empresas",
+        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/business-insurance.jpg",
+        "position":2
+    },
+    {
+        "id": 3,
+        "name": "Seguro para el hogar",
+        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/property-insurance.jpg",
+        "position":1
+    },
+    {
+        "id": 4,
+        "name": "Seguros Adicionales",
+        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/additional-insurance.jpg",
+        "position":2
+    }
+]

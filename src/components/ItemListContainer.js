@@ -1,13 +1,22 @@
-import {AiTwotoneTool} from "react-icons/ai"
-import ItemCount from "./ItemCount"
+import {AiTwotoneTool} from "react-icons/ai";
+import { useEffect,useState } from "react";
+import ItemCount from "./ItemCount";
+import ItemList from "./ItemList";
+import ProductPromise from "../tools/ProductPromise";
+import Data from '../tools/products.json';
+
 const ItemListContainer = ({greeting}) => {
+    const [allData, setDatos] = useState([]);
+    useEffect(() => {
+        ProductPromise((2000),Data)
+        .then(result=>setDatos(result))
+        .catch(err=>console.log(err))
+    },[]);
     return(
     <>
-    <ItemCount 
-    stock={10}
-    initial={1}
-    />
     <div className="ItemListContainer">
+        <ItemList items={allData}/>
+        <ItemCount stock={10}initial={1}/>
         <p className="text-center fs-5 m-5">{greeting} <AiTwotoneTool/></p>
     </div>
     </>

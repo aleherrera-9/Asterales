@@ -1,5 +1,5 @@
 import CartWidget from './CartWidget';
-import image from './logoseguros.png';
+import image from '../images/logoseguros.png';
 const Navbar = () => {
     return (
         <>
