@@ -15,9 +15,9 @@ const ItemListContainer = ({greeting}) => {
     return(
     <>
     <div className="ItemListContainer">
+        <p className="text-center fs-5 m-5">{greeting} <AiTwotoneTool/></p>
         <ItemList items={allData}/>
         <ItemCount stock={10}initial={1}/>
-        <p className="text-center fs-5 m-5">{greeting} <AiTwotoneTool/></p>
     </div>
     </>
     );
