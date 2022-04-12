@@ -11,11 +11,11 @@ const ItemCount = (props) =>{
     }   
         return (
            <>
-            <div className="p-5">
+            <div className="m-2">
             <ul className="list-group list-group-horizontal justify-content-center">
-                <li className="list-group-item"><button type="button" className="btn btn-outline-secondary m-2" onClick={increment}>+</button></li>
+                <li className="list-group-item"><button type="button" className="btn " onClick={increment}>+</button></li>
                 <li className="list-group-item"><p>{rate}</p></li>
-                <li className="list-group-item"><button type="button" className="btn btn-outline-secondary m-2" onClick={decrease}>-</button></li>
+                <li className="list-group-item"><button type="button" className="btn" onClick={decrease}>-</button></li>
             </ul>
             </div>
            </>

@@ -1,26 +1,99 @@
 [
     {
-        "id": 1,
-        "name": "Seguro Automovilistico",
-        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/vehicle-insurance.jpg",     
-        "position":1
+        "productId": 1,
+        "name": "REMERA AVENTURINA",
+        "stock": 50,
+        "price": 2500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/REM-00003-AVENTURINA-1-433x650.jpg",
+        "type":"campera",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":false
     },
     {
-        "id": 2,
-        "name": "Seguro para Empresas",
-        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/business-insurance.jpg",
-        "position":2
+        "productId": 2,
+        "name": "REMERA TANZANITA",
+        "stock": 50,
+        "price": 2500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00023-TANZANITA-2-433x650.jpg",
+        "type":"buzo",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":false
     },
     {
-        "id": 3,
-        "name": "Seguro para el hogar",
-        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/property-insurance.jpg",
-        "position":1
+        "productId": 3,
+        "name": "REMERA OJO DE TIGRE",
+        "stock": 50,
+        "price": 4500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00020-OJO-DE-TIGRE-4-433x650.jpg",
+        "imgId2":"https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00020-OJO-DE-TIGRE-2-433x650.jpg",
+        "type":"buzo",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":true
     },
     {
-        "id": 4,
-        "name": "Seguros Adicionales",
-        "imgId": "https://www.geico.com/public/layout_images/homepage/design6/additional-insurance.jpg",
-        "position":2
+        "productId": 4,
+        "name": "REMERA CORALLIUM",
+        "stock": 50,
+        "price": 3500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00025-CORALLIUM-1-433x650.jpg",
+        "type":"buzo",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":false
+    },
+    {
+        "productId": 5,
+        "name": "SWEATER AGUAMARINA",
+        "stock": 50,
+        "price": 4500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00085-AGUAMARINA-2-433x650.jpg",
+        "type":"campera",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":false
+    },
+    {
+        "productId": 6,
+        "name": "SWEATER MALAYA",
+        "stock": 50,
+        "price": 5500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00109-MALAYA-1-433x650.jpg",
+        "type":"buzo",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":true
+    },
+    {
+        "productId": 7,
+        "name": "SWEATER RUBI",
+        "stock": 50,
+        "price": 5500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00094-RUBI-2-433x650.jpg",
+        "type":"buzo",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":true
+    },
+    {
+        "productId": 8,
+        "name": "SWEATER CUARZO",
+        "stock": 50,
+        "price": 5500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00086-CUARZO-3-433x650.jpg",
+        "type":"buzo",
+        "description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "desc3":"EL COLOR DE LA PRENDA DE LA FOTO ES NEGRO 001",
+        "onSale":false
     }
 ]
