@@ -1,34 +1,31 @@
 import CartWidget from './CartWidget';
 import image from '../images/logo.png';
+import { Link } from 'react-router-dom';
 const Navbar = () => {
     return (
         <>
         <div className="text-center">
-        <img className="nav-imagen"src={image}/>
+        <Link to='/'><img className="nav-imagen"src={image}/></Link>
         </div>
-        <div className="navBackground">
-            <CartWidget/>
-            <ul className="nav justify-content-center">
+        <CartWidget/>
+        <div className="navBackground Navbar">
+            <ul className="nav justify-content-center m-4">
                 <li className="nav-item">
-                    <a className="nav-link active" aria-current="page" href="#" >AW22</a>
+                    <Link to='/aw22'>AW22</Link>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link " href="#">PRENDAS</a>
+                    <Link to='/remeras'>REMERAS</Link>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link " href="#">NEW IN</a>
+                    <Link to='/sweaters'>SWEATERS</Link>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="#">OUTLET</a>
-                </li>
-                <li className="nav-item">
-                    <a className="nav-link" href="#">ACCESORIOS</a>
-                </li>
-                <li className="nav-item">
-                    <a className="nav-link disable" href="#">Contacto</a>
+                    <Link to='/outlet'>OUTLET</Link>
                 </li>
             </ul>
         </div>
+        
+        <div className="link-top"></div>
         </>
         
     );

@@ -8,7 +8,7 @@ const ItemCount = (props) =>{
     const decrease = () =>{
         if(rate>props.initial){
             setRate(rate-1);}
-    }   
+    } 
         return (
            <>
             <div className="m-2">
@@ -17,6 +17,8 @@ const ItemCount = (props) =>{
                 <li className="list-group-item"><p>{rate}</p></li>
                 <li className="list-group-item"><button type="button" className="btn" onClick={decrease}>-</button></li>
             </ul>
+            <br/>
+            <p>Stock disponible {props.stock-rate}</p>
             </div>
            </>
         );

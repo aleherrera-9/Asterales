@@ -12,27 +12,55 @@
 .navBackground{
   text-transform: uppercase;
 }
+.link-top{
+  width: 100%;
+  height: 10px;
+  border-top: solid #000000 1px;
+}
 .nav-imagen{
   margin-top: 25px;
   width: 350px;
   height: 200px;
 }
-.nav-item a{
+.Navbar a{
   color: rgb(0, 0, 0);
   font-size: 18px;
   padding-left: 80px;
   padding-right: 80px;
 }
-hr {
-  height: 10px;
-  background-color: black;
+.LinkRoute{
+  text-decoration: none;
+  color: black;
 }
-.optionBeige{
-  background-color: rgb(242, 220, 190);
+.Footer{
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: darkcyan;
+}
+.Footer a{
+  margin: 8px;
+}
+.Footer ul{
+  list-style-type: none;
+  text-align: center
+}
+.Footer li{
+  width: 50px;
+  height: 20%;
+  border-right: solid #000000 2px;
+  display: inline;
+  margin-right: 10px;
 }
 .col-1 img{
   height: 250px;
   width: 150px;
+}
+.nav-item a{
+  text-decoration: none;
+  color: black;
+}
+.LinkRoute:hover{
+  color: rgb(50, 79, 65);
 }
 .optionBlack{
   background-color: rgb(0, 0, 0);
@@ -41,7 +69,7 @@ hr {
   background-color: rgb(255, 255, 255);
 }
 .nav-item a:hover{
-  color: rgb(225, 98, 25);
+  color: darkcyan;
 }
 .ItemListContainer{
   color: rgb(0, 0, 0);

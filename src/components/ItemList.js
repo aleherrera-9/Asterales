@@ -1,10 +1,15 @@
 import Item from './Item';
 const ItemList=({items})=>{
-    
+    // items.map(item=><Item item={item} key={item.id}/>   
     return(
-        items.map(item=><Item name={item.name} key={item.id} image={item.imgId} position={item.position}/>
+      <>
+        {
+        items.length>0
+        ?
+            items.map(item=><Item item={item} key={item.id}/>)
+            :<div className="Cargando">Cargando...</div> 
+        }
+      </>
         )
-        
-    )
 }
 export default ItemList;
