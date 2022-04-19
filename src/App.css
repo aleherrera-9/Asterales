@@ -3,6 +3,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+*{
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -11,6 +15,26 @@
 }
 .navBackground{
   text-transform: uppercase;
+}
+.cartButton {
+  background-color: black;
+  border-color:  black;
+  border-radius: 0%;
+  font-size: 14px;
+  width:550px;
+  height: 38px;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.cartButton:disabled{
+  background-color: rgb(197, 195, 195);
+  border-color:  rgb(197, 195, 195);
+  border-radius: 0%;
+}
+.cartButton  :hover{
+  background-color: white;
+  color: black;
 }
 .link-top{
   width: 100%;
@@ -24,7 +48,7 @@
 }
 .Navbar a{
   color: rgb(0, 0, 0);
-  font-size: 18px;
+  font-size: 20px;
   padding-left: 80px;
   padding-right: 80px;
 }
@@ -34,7 +58,6 @@
 }
 .Footer{
   font-size: 12px;
-  letter-spacing: 0.2em;
   color: darkcyan;
 }
 .Footer a{
@@ -61,6 +84,49 @@
 }
 .LinkRoute:hover{
   color: rgb(50, 79, 65);
+}
+.Register{
+  margin: 5px;
+  font-size: 14px;
+}
+.Register input{
+  border-color: black;
+  border-radius: 0;
+}
+.Register button{
+ background-color: black;
+ border-color:  black;
+ border-radius: 0%;
+ font-size: 14px;
+ width:550px;
+ height: 38px;
+ color: white;
+ padding: 5px;
+ margin: 5px;
+}
+.Register button:nth-child(2){
+  background-color: white;
+  color: black;
+  border-color:  black;
+  margin: 5px; 
+  height: 38px;
+ }
+ .Register button:nth-child(2):hover{
+  background-color: black;
+  color: white;
+  border-color:  black;
+ }
+.Register button:hover{
+  background-color: white;
+  color: black;
+  border-color:  black;
+}
+.Register a{
+  text-decoration: none;
+  color: darkcyan;
+}
+.Register a:hover{
+  color: rgb(4, 116, 116);
 }
 .optionBlack{
   background-color: rgb(0, 0, 0);

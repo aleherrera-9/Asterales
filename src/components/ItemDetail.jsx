@@ -1,8 +1,14 @@
 import ItemCount from "./ItemCount";
+import {useState} from "react";
+import { Link } from "react-router-dom";
 const ItemDetail=({item})=>{
-
+  const [itemCount,setItemCount] = useState(0);
+  const onAdd = (qty) =>{
+    alert('Agregaste '+qty+' items de '+item.name);
+    setItemCount(qty);
+  }
   return(
-      <div className="container text-center p-4">
+      <div className="container text-center p-4 ">
       <div className="row ">
         <div className="col-sm"> <img src={item.imgId}/></div>
         <div className="col-sm m-1 text-center">
@@ -24,9 +30,11 @@ const ItemDetail=({item})=>{
             <option value="3">L</option>
             <option value="3">XL</option>
           </select>
-          <ItemCount stock={item.stock} initial={1}/>
-          <br/>
-          <button type="button" className="btn m-1" >Comprar</button>
+          {
+            itemCount===0
+            ?<ItemCount stock={item.stock} initial={itemCount} onAdd={onAdd} price={item.price}/>
+            : <Link to='/Cart' ><button className="cartButton text-center">Ver carrito</button></Link>
+          }
         </div>
       </div>
       </div>

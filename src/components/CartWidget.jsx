@@ -7,7 +7,7 @@ const CartWidget= () => {
         <div className="text-white fs-5 text-end">
              <ul className="nav justify-content-end m-5">
                 <li className="nav-item p-4">
-                <Link to='/'><FaRegUser/></Link>
+                <Link to='/Register'><FaRegUser/></Link>
                 </li>
                 <li className="nav-item p-4">
                 <Link to='/Cart'>5 <BsCart3 /></Link>

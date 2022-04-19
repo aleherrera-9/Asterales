@@ -1,6 +1,6 @@
 import Item from './Item';
 const ItemList=({items})=>{
-    // items.map(item=><Item item={item} key={item.id}/>   
+  
     return(
       <>
         {
