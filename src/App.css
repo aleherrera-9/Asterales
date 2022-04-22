@@ -16,6 +16,15 @@
 .navBackground{
   text-transform: uppercase;
 }
+.Cart{
+  font-size: 15px;
+  background-color: #a8c5ff49;
+  border-radius: 5px;
+}
+.Cart li{
+  border: none;
+  background-color: #a8c5ff00;
+}
 .cartButton {
   background-color: black;
   border-color:  black;
@@ -23,6 +32,15 @@
   font-size: 14px;
   width:550px;
   height: 38px;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.cartButtonMin {
+  background-color: black;
+  border-color:  black;
+  border-radius: 0%;
+  font-size: 12px;
   color: white;
   padding: 5px;
   margin: 5px;
@@ -55,6 +73,9 @@
 .LinkRoute{
   text-decoration: none;
   color: black;
+  font-size: 12px;
+  color: white;
+  text-transform: lowercase;
 }
 .Footer{
   font-size: 12px;

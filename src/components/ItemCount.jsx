@@ -1,5 +1,4 @@
 import{useState} from "react";
-import Item from "./Item";
 const ItemCount = ({stock,initial=0,onAdd,price}) =>{
     const [rate, setRate]= useState(initial);
     const increment = () =>{

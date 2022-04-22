@@ -1,11 +1,13 @@
 import ItemCount from "./ItemCount";
-import {useState} from "react";
-import { Link } from "react-router-dom";
+import {useContext, useState} from "react";
+import { Link } from "react-router-dom"
+import { CartContext } from "./CartContext";
 const ItemDetail=({item})=>{
   const [itemCount,setItemCount] = useState(0);
+  const test=useContext(CartContext);
   const onAdd = (qty) =>{
-    alert('Agregaste '+qty+' items de '+item.name);
     setItemCount(qty);
+    test.addToCart(item,qty);
   }
   return(
       <div className="container text-center p-4 ">
