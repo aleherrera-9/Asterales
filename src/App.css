@@ -16,6 +16,36 @@
 .navBackground{
   text-transform: uppercase;
 }
+.Cart{
+  font-size: 15px;
+  background-color: #a8c5ff49;
+  border-radius: 5px;
+}
+span{
+  font-size: 17px;
+  font-weight: 600;
+  color: black;
+  position:absolute;
+  border-radius: 60%;
+  height: 29px;
+  width: 29px;
+  background-color: #00c269;
+  text-align: center;
+}
+.totalPrice{
+  background-color: rgb(196, 159, 129);
+  margin: 50px;
+  padding: 25px;
+}
+.totalPrice p{
+  font-weight: 700;
+  margin-right: 80px;
+}
+
+.Cart li{
+  border: none;
+  background-color: #a8c5ff00;
+}
 .cartButton {
   background-color: black;
   border-color:  black;
@@ -24,6 +54,25 @@
   width:550px;
   height: 38px;
   color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.cartButtonMin {
+  background-color: black;
+  border-color:  black;
+  border-radius: 0%;
+  font-size: 12px;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.cartButtonMin2 {
+  background-color: #00c269;
+  border: 1px solid #00c269;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
   padding: 5px;
   margin: 5px;
 }
@@ -36,6 +85,16 @@
   background-color: white;
   color: black;
 }
+.card-body{
+  background: #f5f5f5;
+  border-color:#f5f5f5;
+  border-radius: 5px;
+  
+}
+.col-4 p{
+  width: 160px;
+}
+
 .link-top{
   width: 100%;
   height: 10px;
@@ -55,6 +114,7 @@
 .LinkRoute{
   text-decoration: none;
   color: black;
+  text-transform: lowercase;
 }
 .Footer{
   font-size: 12px;

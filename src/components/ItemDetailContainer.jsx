@@ -7,7 +7,7 @@ const ItemDetailContainer = () => {
     const [item,setItem] = useState([])
     const {itemId}= useParams();
     useEffect(()=>{
-        ProductPromise(500,Data.find(item=>item.id === parseInt(itemId)))
+        ProductPromise(250,Data.find(item=>item.id === parseInt(itemId)))
           .then(res =>setItem(res))
           .catch(err=>console.log(err))
       },[])

@@ -1,20 +1,18 @@
 import { BsCart3 } from "react-icons/bs";
-import { FaRegUser } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import { CartContext } from "./CartContext";
+import { useContext } from "react";
+
 const CartWidget= () => {
+    let finalQty=0;
+    const test= useContext(CartContext);
     return(
-       
-        <div className="text-white fs-5 text-end">
-             <ul className="nav justify-content-end m-5">
-                <li className="nav-item p-4">
-                <Link to='/Register'><FaRegUser/></Link>
-                </li>
-                <li className="nav-item p-4">
-                <Link to='/Cart'>5 <BsCart3 /></Link>
-                </li>
-           </ul> 
-         
+        <>
+        {test.cartList.forEach(element =>finalQty+=element.qty) }
+        <div className="text-end m-5 fs-3">
+        <Link to='/Cart' className="LinkRoute text-dark"><BsCart3/></Link> <span>{finalQty}</span>
         </div>
+        </>
     )
 }
 export default CartWidget;

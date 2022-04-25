@@ -30,7 +30,7 @@
         "price": 4500,
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00020-OJO-DE-TIGRE-4-433x650.jpg",
         "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
-        "onSale":true,
+        "onSale":false,
         "newIn":false
     },
     {
@@ -64,7 +64,7 @@
         "price": 5500,
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00109-MALAYA-1-433x650.jpg","description":"HILADO LYCRA",
         "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
-        "onSale":true,
+        "onSale":false,
         "newIn":false
     },
     {
@@ -75,7 +75,7 @@
         "price": 5500,
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00094-RUBI-2-433x650.jpg","description":"HILADO LYCRA",
         "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
-        "onSale":true
+        "onSale":false
     },
     {
         "id":8,
@@ -122,7 +122,7 @@
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2021/12/5376.0000406-CROTON-1-433x650.jpg",
         "description":"TELA: ALGODÓN",
         "desc2":"COMPOSICIÓN: 80% ALGODÓN 20% POLIÉSTER EL COLOR DE LA PRENDA DE LA FOTO ES: GRIS MELANGE",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -134,7 +134,7 @@
         "imgId":"https://www.mokaknit.com/wp-content/uploads/2021/11/SWE-00082-CALENDULA-3-433x650.jpg",
         "description":"HILADO: ALGODÓN COMPOSICIÓN: 100% ALGODÓN PEINADO",
         "desc2":"EL COLOR DE LA PRENDA DE LA FOTO ES: NATURAL 003",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -146,7 +146,7 @@
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2021/08/TOT-00011-LAGOS-2-433x650.jpg",
         "description":"HILADO: LYCRA COMPOSICIÓN: 75% POLIÉSTER 25% VISCOSA",
         "desc2":"EL COLOR DE LA PRENDA DE LA FOTO ES: NEGRO 001",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -158,7 +158,7 @@
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2021/08/TOT-00007-LENA-3-433x650.jpg",
         "description":"HILADO: ALGODÓN COMPOSICIÓN: 100% ALGODÓN PEINADO",
         "desc2":"EL COLOR DE LA PRENDA DE LA FOTO ES: NUEZ 069",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -170,7 +170,7 @@
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2021/10/TOT-00021-NAVAGIO-4-433x650.jpg",
         "description":"HILADO: ALGODÓN COMPOSICIÓN: 100% ALGODÓN PEINADO",
         "desc2":"EL COLOR DE LA PRENDA DE LA FOTO ES: NATURAL 003",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -182,7 +182,7 @@
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2021/08/TOT-00010-ROME-2-433x650.jpg",
         "description":"HILADO: ALGODÓN COMPOSICIÓN: 100% ALGODÓN PEINADO",
         "desc2":"EL COLOR DE LA PRENDA DE LA FOTO ES: NATURAL/CURCUMA/AZUL NAUTICO/VERDE EUCALIPTO 193",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -194,7 +194,7 @@
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2021/08/CHT-00013-GRACE-1-433x650.jpg",
         "description":"HILADO: ALGODÓN COMPOSICIÓN: 100% ALGODÓN PEINADO",
         "desc2":"EL COLOR DE LA PRENDA DE LA FOTO ES: NATURAL/CHILI RED 171",
-        "onSale":false,
+        "onSale":true,
         "newIn":true
     },
     {
@@ -216,7 +216,7 @@
         "price": 4500,
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00020-OJO-DE-TIGRE-4-433x650.jpg",
         "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
-        "onSale":true,
+        "onSale":false,
         "newIn":false
     },
     {
@@ -238,7 +238,7 @@
         "price": 5500,
         "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/SWE-00094-RUBI-2-433x650.jpg","description":"HILADO LYCRA",
         "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
-        "onSale":true
+        "onSale":false
     },
     {
         "id":22,

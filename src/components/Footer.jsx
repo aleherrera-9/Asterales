@@ -5,9 +5,9 @@ return(
     <div className="text-center Footer">
         <p>CONTACTO</p>
         <ul >
-            <li ><a >0810 120 7758 </a></li> 
-            <li ><a>AYUDA@ASTERALES.COM.AR </a></li>
-            <li ><a>NUESTROS LOCALES </a></li>
+            <li key='1'><a >0810 120 7758 </a></li> 
+            <li key='2'><a>AYUDA@ASTERALES.COM.AR </a></li>
+            <li key='3'><a>NUESTROS LOCALES </a></li>
         </ul>
         <p>Registrate para recibir ofertas</p>
     </div>

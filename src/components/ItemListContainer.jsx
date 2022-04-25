@@ -9,11 +9,11 @@ const ItemListContainer = () => {
     const {idCategory}= useParams();
     useEffect(() => {
         if(idCategory == undefined){
-            ProductPromise(3000,Data)
+            ProductPromise(1000,Data)
                 .then(result=>setDatos(result))
                 .catch(err=>console.log(err))
         }else{
-            ProductPromise(1500,Data.filter(item=> item.productId === idCategory))
+            ProductPromise(500,Data.filter(item=> item.productId === idCategory))
             .then(result=>setDatos(result))
             .catch(err=>console.log(err))
         }

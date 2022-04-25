@@ -1,5 +1,4 @@
 import{useState} from "react";
-import Item from "./Item";
 const ItemCount = ({stock,initial=0,onAdd,price}) =>{
     const [rate, setRate]= useState(initial);
     const increment = () =>{
@@ -14,9 +13,9 @@ const ItemCount = ({stock,initial=0,onAdd,price}) =>{
            <>
             <div className="m-2">
             <ul className="list-group list-group-horizontal justify-content-center">
-                <li className="list-group-item"><button type="button" className="btn " onClick={increment}>+</button></li>
-                <li className="list-group-item"><p>{rate}</p></li>
-                <li className="list-group-item"><button type="button" className="btn" onClick={decrease}>-</button></li>
+                <li key='4'className="list-group-item"><button type="button" className="btn " onClick={increment}>+</button></li>
+                <li key='5'className="list-group-item"><p>{rate}</p></li>
+                <li key='6'className="list-group-item"><button type="button" className="btn" onClick={decrease}>-</button></li>
             </ul>
             <br/>
             <p>Stock disponible {stock-rate}</p>
