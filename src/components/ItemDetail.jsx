@@ -1,20 +1,27 @@
 import ItemCount from "./ItemCount";
+import {useContext, useState} from "react";
+import { Link } from "react-router-dom"
+import { CartContext } from "./CartContext";
 const ItemDetail=({item})=>{
+  const [itemCount,setItemCount] = useState(0);
+  const test=useContext(CartContext);
+  const onAdd = (qty) =>{
+    setItemCount(qty);
+    test.addToCart(item,qty);
+  }
   return(
-    <div className="container text-center p-4">
+      <div className="container text-center p-4 ">
       <div className="row ">
-      <div class="col-1"><img src={item.imgId2}/>   </div>
-        <div className="col-6"> <img src={item.imgId}/></div>
-        <div className="col-4 m-1 text-center">
+        <div className="col-sm"> <img src={item.imgId}/></div>
+        <div className="col-sm m-1 text-center">
           <h3 className="m-3">{item.name}</h3> <hr/>
            <div className="p-5">
-          <hr/> <p className="m-1 fs-5">{item.description}<br/>{item.desc2}<br/>{item.desc3}
-             </p> <hr/>
+          <hr/> <p className="m-1 fs-5">{item.description}<br/>{item.desc2}</p> <hr/>
           </div>
           <p className="fs-4">Precio : {item.price}</p>
-          
+
+
           <p>Colores:</p>
-          <button type="button" className="border border-dark optionBeige m-1"> ㅤㅤ</button>
           <button type="button" className="border border-dark optionBlack m-1"> ㅤㅤ</button>
           <button type="button" className="border border-dark optionWhite m-1"> ㅤㅤ</button>
          
@@ -25,13 +32,14 @@ const ItemDetail=({item})=>{
             <option value="3">L</option>
             <option value="3">XL</option>
           </select>
-          <ItemCount stock={item.stock}initial={1}/>
-          <p>Stock: {item.stock}</p>
-          <button type="button" className="btn m-1">Comprar</button>
+          {
+            itemCount===0
+            ?<ItemCount stock={item.stock} initial={itemCount} onAdd={onAdd} price={item.price}/>
+            : <Link to='/Cart' ><button className="cartButton text-center">Ver carrito</button></Link>
+          }
         </div>
       </div>
-  </div>
-      
-  );
+      </div>
+  )
 }
 export default ItemDetail;

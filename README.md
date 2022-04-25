@@ -1,3 +1,6 @@
+# Asterales introduccion
+
+Asterales es una marca de ropa, el proyecto esta orientado a un ecommerce que revenda ropa y contenga un catalogo
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
