@@ -6,6 +6,7 @@ const CartContextProvider =({children}) =>{
     const found = cartList.find(element => element.id==item.id);
     if(found){
         found.qty+=qty;
+         setCartList([...cartList])
     }
         else{ 
             setCartList([
