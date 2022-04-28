@@ -1,5 +1,16 @@
 [
     {
+        "id":0,
+        "productId": "outlet",
+        "name": "REMERA TANZANITA(outlet)",
+        "stock": 30,
+        "price": 2500,
+        "imgId": "https://www.mokaknit.com/wp-content/uploads/2022/02/RET-00023-TANZANITA-2-433x650.jpg","description":"HILADO LYCRA",
+        "desc2":"COMPOSICION 75% POLYESTER 25% VISCOSA",
+        "onSale":true,
+        "newIn":false
+    },
+    {
         "id":1,
         "productId": "remeras",
         "name": "REMERA AVENTURINA",

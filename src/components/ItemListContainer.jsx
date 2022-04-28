@@ -1,23 +1,18 @@
 import { useEffect,useState } from "react";
 import ItemList from "./ItemList";
-import ProductPromise from "../tools/ProductPromise";
-import Data from '../tools/products.json';
+import { fetchFirestore } from "../tools/firestoreInfo";
 import { useParams } from "react-router-dom";
 
 const ItemListContainer = () => {
     const [allData, setDatos] = useState([]);
     const {idCategory}= useParams();
-    useEffect(() => {
-        if(idCategory == undefined){
-            ProductPromise(1000,Data)
-                .then(result=>setDatos(result))
-                .catch(err=>console.log(err))
-        }else{
-            ProductPromise(500,Data.filter(item=> item.productId === idCategory))
-            .then(result=>setDatos(result))
-            .catch(err=>console.log(err))
-        }
+
+    useEffect(()=>{
+       fetchFirestore(idCategory)
+       .then(result=>setDatos(result))
+       .catch(error=>console.log(error))
     },[idCategory]);
+    
     return(
     <>
     <div className="ItemListContainer">

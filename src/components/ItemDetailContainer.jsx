@@ -1,18 +1,19 @@
 import Data from '../tools/products.json';
 import ItemDetail from './ItemDetail';
 import { useParams } from "react-router-dom";
-import { useEffect,useState } from 'react';
-import ProductPromise from '../tools/ProductPromise';
-const ItemDetailContainer = () => {   
-    const [item,setItem] = useState([])
-    const {itemId}= useParams();
-    useEffect(()=>{
-        ProductPromise(250,Data.find(item=>item.id === parseInt(itemId)))
-          .then(res =>setItem(res))
-          .catch(err=>console.log(err))
-      },[])
-    return(
-       <ItemDetail item={item} key={item.id}/>
-    )
+import { useEffect, useState } from 'react';
+import { fetchFirestoreItemDetail } from '../tools/firestoreInfo';
+const ItemDetailContainer = () => {
+  const [item, setItem] = useState([])
+  const { itemId } = useParams();
+  useEffect(() => {
+    fetchFirestoreItemDetail(itemId)
+      .then(result => setItem(result))
+      .catch(error => console.log(error))
+  },[])
+
+  return (
+    <ItemDetail item={item} key={item.id} />
+  )
 }
 export default ItemDetailContainer;
