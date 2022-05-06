@@ -7,7 +7,7 @@ const ItemList=({items})=>{
         items.length>0
         ?
             items.map(item=><Item item={item} key={item.id+1}/>)
-            :<div className="Cargando">Cargando...</div> 
+            :<div>Cargando...</div> 
         }
       </>
         )

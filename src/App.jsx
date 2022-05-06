@@ -8,6 +8,7 @@ import Footer  from './components/Footer';
 import Cart from './components/Cart';
 import Register from './components/Register';
 import CartContextProvider from './components/CartContext';
+import NewAccount from './components/NewAccount';
 function App() {
   return (
    <>
@@ -20,6 +21,7 @@ function App() {
         <Route path='/cart' element={ <Cart/>}/>
         <Route path='/register' element={ <Register/>}/>
         <Route path='/:productId/:itemId' element={ <ItemDetailContainer/>}/>
+        <Route path='/newAccount' element={ <NewAccount/>}/>
       </Routes>
       <Footer/>
    </BrowserRouter>
