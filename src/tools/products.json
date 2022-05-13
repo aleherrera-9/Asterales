@@ -1,24 +1,10 @@
 [
+    
     {
-        "idItem": 0,
-        "productId": "Camisas&Blusas",
-        "name": "Camisa oversize de lino",
-        "stock": 30,
-        "price": 7500,
-        "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa8%2Fb7%2Fa8b794618e63e8c310ab4187ae7fb4785e47c03f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F14%2F68%2F14689f6d0108f0c326168b2e7229ed438617c045.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
-        "imgId2": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6d%2F89%2F6d89a4e9fb5fac48ee637e7f3d4683fb030e0450.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
-        "imgId3": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4e%2F87%2F4e8741e551447d9c96d749174b04984d13743eb9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shirtsblouses_linenshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
-        "description": "Camisa oversize en lino vaporoso con cuello, botones delante y canesú doble en la espalda. Bolsillo superior abierto, hombros ligeramente caídos y mangas largas con puños sencillos. Bajo redondeado con espalda algo más larga.",
-        "desc2": "La persona de la foto mide 176cm y lleva una talla S",
-        "onSale": false,
-        "newIn": true
-    },
-    {
-        "idItem": 1,
+        "idItem":"29",
         "productId": "Camisas&Blusas",
         "name": "Blusa de manga puffy con peplo",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8e%2F19%2F8e1991d9577628654976c3f3acb6db8b5162bcbb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F21%2F30%2F2130dada9343f139398590f7b41b6b34435256c3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
@@ -30,10 +16,10 @@
         "newIn": true
     },
     {
-        "idItem": 2,
+        "idItem": "2",
         "productId": "Camisas&Blusas",
         "name": "Blusa con escote de pico",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F39%2Fa1%2F39a1a100f1aef8e7d3cf8ab81fabda85d9db6ffe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F98%2Ffb%2F98fb47e76030cd0dd63cbd66a3204935e844ccf8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shirtsblouses_blouses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -45,10 +31,10 @@
         "newIn": true
     },
     {
-        "idItem": 3,
+        "idItem": "3",
         "productId": "Camisas&Blusas",
         "name": "Camisa cropped",
-        "stock": 30,
+        "stock": 2000,
         "price": 5500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F27%2Fdd%2F27dde909c332c1a946f502cb69d699cdfe8b6784.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5c%2F94%2F5c941ac85e3817ce1d7eddae3b8b79a0f0227ab0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -60,10 +46,10 @@
         "newIn": false
     },
     {
-        "idItem": 4,
+        "idItem": "4",
         "productId": "Camisas&Blusas",
         "name": "Camisa resort oversize",
-        "stock": 30,
+        "stock": 2000,
         "price": 7500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5a%2Fce%2F5ace3459b8e5c67018f18a7fee169fac4c3e7717.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F38%2Faf%2F38afd9a703934edba9adce98fb940da2c222acda.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -75,10 +61,10 @@
         "newIn": true
     },
     {
-        "idItem": 5,
+        "idItem": "5",
         "productId": "Camisas&Blusas",
         "name": "Blusa oversize",
-        "stock": 30,
+        "stock": 2000,
         "price": 4500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8f%2Fad%2F8fad7c9852ffc56b90730258f9d80e23dcd24a1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F65%2F9c%2F659c1569952565f4083d9a9714418757499abb38.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -90,10 +76,10 @@
         "newIn": true
     },
     {
-        "idItem": 6,
+        "idItem": "6",
         "productId": "Camisas&Blusas",
         "name": "Blusa cropped en mezcla de lino",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2Fd8%2Ff2d83ba57a1fdc8da64d04f82418c36b78716f9c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd4%2F29%2Fd429c521bc81e8fa76765781f9d59b1e7f52cf89.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -105,10 +91,10 @@
         "newIn": false
     },
     {
-        "idItem": 7,
+        "idItem": "7",
         "productId": "Camisas&Blusas",
         "name": "Blusa bustier cropped",
-        "stock": 30,
+        "stock": 2000,
         "price": 6500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2F36%2F93368963c839e7c17c80c2537a913d8679d88ad6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3b%2F95%2F3b950a48fc8045a88fb59dcdc8a5aa3072a8a429.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -120,10 +106,10 @@
         "newIn": false
     },
     {
-        "idItem": 8,
+        "idItem": "8",
         "productId": "Camisas&Blusas",
         "name": "Blusa crepé con tiras de anudar",
-        "stock": 30,
+        "stock": 2000,
         "price": 4500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fac%2Fd8%2Facd8008e4397931596693e43553d0e5af704a9d3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa5%2Fa7%2Fa5a7d27a895c4a24a8d59cf3a5e5459d2f831c86.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -135,10 +121,10 @@
         "newIn": false
     },
     {
-        "idItem": 9,
+        "idItem": "9",
         "productId": "Camisas&Blusas",
         "name": "Camisa de popelina",
-        "stock": 30,
+        "stock": 2000,
         "price": 5500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F05%2Fb3%2F05b34f57a24600239b17c6522a330588b2f29b99.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9e%2Fdc%2F9edcce3b7b08bd68652351706cde40dbc70980e2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -150,7 +136,7 @@
         "newIn": false
     },
     {
-        "idItem": 10,
+        "idItem": "10",
         "productId": "NewIn",
         "name": "Chaqueta camisera oversize en denim - Negra",
         "stock": 130,
@@ -165,10 +151,10 @@
         "newIn": false
     },
     {
-        "idItem": 11,
+        "idItem": "11",
         "productId": "NewIn",
         "name": "Chaqueta sudadera larga de algodón",
-        "stock": 30,
+        "stock": 2000,
         "price": 16500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd8%2Fab%2Fd8ab2b6bc332e1a2df709f78a3480e7e9675a9e1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc3%2Fdc%2Fc3dc824eeb1df5550166bba4ffe5190b31d62a44.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_hoodiesswetshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -180,10 +166,10 @@
         "newIn": true
     },
     {
-        "idItem": 12,
+        "idItem": "12",
         "productId": "NewIn",
         "name": "Chaqueta camisera oversize en denim - Beige",
-        "stock": 30,
+        "stock": 2000,
         "price": 20000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2Fef%2F7eef69dfebbaa3dae121284bc5e7a3a5ab9d6e0b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F92%2F96%2F9296e5ca0da0418d3512a0459b145bc98b2a6339.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -195,10 +181,10 @@
         "newIn": true
     },
     {
-        "idItem": 13,
+        "idItem": "13",
         "productId": "NewIn",
         "name": "Parka gales con capucha ",
-        "stock": 30,
+        "stock": 2000,
         "price": 20000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9e%2F60%2F9e60098019132090050efe8e4cfb14bc4ea0b658.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb5%2F37%2Fb537368fef7dbdae3b4b139a01641c0c8b74033a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -210,10 +196,10 @@
         "newIn": true
     },
     {
-        "idItem": 14,
+        "idItem": "14",
         "productId": "NewIn",
         "name": "Parka cuadros con capucha ",
-        "stock": 30,
+        "stock": 2000,
         "price": 20000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd9%2Fa0%2Fd9a009627c655b39a6d018125c26283c3d02379c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F69%2F47%2F6947eeb34ceef8768627c57ac172d03a59fe87d3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -225,10 +211,10 @@
         "newIn": true
     },
     {
-        "idItem": 15,
+        "idItem": "15",
         "productId": "NewIn",
         "name": "Abrigo oversize",
-        "stock": 30,
+        "stock": 2000,
         "price": 20000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F37%2F17%2F37170795660ed0ab44165d1a97244a614a82c63a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F37%2F41%2F37410d80fec8dab135e92804cebf8a88c39a102a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -240,10 +226,10 @@
         "newIn": true
     },
     {
-        "idItem": 16,
+        "idItem": "16",
         "productId": "NewIn",
-        "name": "Chaqueta camisera oversize de sarga/Beige Claro",
-        "stock": 30,
+        "name": "Chaqueta camisera oversize de sarga - Beige Claro",
+        "stock": 2000,
         "price": 35000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F01%2F4a%2F014a8d5e5d250a81899aea6909a81c7975f7f477.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F68%2F0b%2F680b600a233848d2947aaf08f5e380a6b6c8d6f1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -255,10 +241,10 @@
         "newIn": true
     },
     {
-        "idItem": 17,
+        "idItem": "17",
         "productId": "NewIn",
-        "name": "Chaqueta camisera oversize de sarga/Naranja Claro",
-        "stock": 30,
+        "name": "Chaqueta camisera oversize de sarga - Naranja Claro",
+        "stock": 2000,
         "price": 35000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2F40%2F1340fcbdcecd011e7a8d12d19d7fa336c953b009.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F52%2Fa1%2F52a187093460abe4a9617da0c22675043ec3f6fc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -270,10 +256,10 @@
         "newIn": true
     },
     {
-        "idItem": 18,
+        "idItem": "18",
         "productId": "NewIn",
         "name": "Jersey de punto fino",
-        "stock": 30,
+        "stock": 2000,
         "price": 12000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2Fbc%2F80bc457ba72918bf3a163dda6ac7c89c7c6cb8d1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F39%2Fba%2F39ba9680c6ac99b49860f88d0ed535565edc22ea.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -285,10 +271,10 @@
         "newIn": true
     },
     {
-        "idItem": 19,
+        "idItem": "19",
         "productId": "Camperas&Sweaters",
         "name": "Cárdigan en punto de canalé - Lila",
-        "stock": 30,
+        "stock": 2000,
         "price": 7000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3a%2Fbc%2F3abcb47cafd01b4f30b72c22354c30cbf19b69fd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F52%2F9d%2F529da5483cf8fe2e3a4dd70d770832282a1e22be.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -300,10 +286,10 @@
         "newIn": true
     },
     {
-        "idItem": 20,
+        "idItem": "20",
         "productId": "Camperas&Sweaters",
         "name": "Cárdigan en punto de canalé - Verde",
-        "stock": 30,
+        "stock": 2000,
         "price": 7000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe7%2F61%2Fe761cd036ea19d1e82e127a8b202b99a2b3b9341.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F27%2F5f%2F275f39669c7dac65c8f085db8e37244f7dab601a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -315,10 +301,10 @@
         "newIn": true
     },
     {
-        "idItem": 21,
+        "idItem": "21",
         "productId": "Camperas&Sweaters",
         "name": "Cárdigan en punto de canalé - Rosa claro",
-        "stock": 30,
+        "stock": 2000,
         "price": 20000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F2e%2F942e979b40892dadea5dadc48680e9ac9e11da33.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F91%2Fe7%2F91e7dfdc8853483818708841d1d7fc7d1caf10ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -330,10 +316,10 @@
         "newIn": true
     },
     {
-        "idItem": 22,
+        "idItem": "0",
         "productId": "NewIn",
-        "name": "Jersey en punto pointelle - Rosa/Naranja",
-        "stock": 30,
+        "name": "Jersey en punto pointelle - Rosa / Naranja",
+        "stock": 2000,
         "price": 9000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2Ff9%2F73f93d9d1f37ccfbfbfc1a22b849428445295aa0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0d%2F3d%2F0d3d53f203f3d920f140bbdb724a6092293e3e2d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -345,10 +331,10 @@
         "newIn": true
     },
     {
-        "idItem": 23,
+        "idItem": "23",
         "productId": "NewIn",
         "name": "Jersey en punto pointelle - Negro/Blanco",
-        "stock": 30,
+        "stock": 2000,
         "price": 9000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5b%2F0e%2F5b0e2949e1cd31aa5c5115b2ac7175cf86522a27.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb3%2Feb%2Fb3eb7b7d647cc4e8f8538c1cd12ae5c10923fd38.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -360,10 +346,10 @@
         "newIn": true
     },
     {
-        "idItem": 24,
+        "idItem": "24",
         "productId": "Camperas&Sweaters",
         "name": "Jersey - Lila Claro",
-        "stock": 30,
+        "stock": 2000,
         "price": 7000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1c%2F70%2F1c70dbd2b1f83873f8d0eff7a6136499ede8ef31.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb8%2Fc4%2Fb8c41a8d10b441b62c058986f3b371773977636d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -375,10 +361,10 @@
         "newIn": true
     },
     {
-        "idItem": 25,
+        "idItem": "25",
         "productId": "Camperas&Sweaters",
         "name": "Jersey - Amarillo",
-        "stock": 30,
+        "stock": 2000,
         "price": 7000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2Ff2%2Fe0f2e618d21b17ea6c0d8192d9c415d6101399f9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F37%2Fb7%2F37b7fc171e46cd90cf485c0585bb56449ed485d7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -390,10 +376,10 @@
         "newIn": true
     },
     {
-        "idItem": 26,
+        "idItem": "26",
         "productId": "Camperas&Sweaters",
         "name": "Jersey en punto de canalé",
-        "stock": 30,
+        "stock": 2000,
         "price": 20000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6f%2F0a%2F6f0af9b619731b87c79a295642106027cccce0f0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F20%2Fa3%2F20a3ce1a4e7e7ae05fcb5e940df6164d21fe40d0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -405,10 +391,10 @@
         "newIn": true
     },
     {
-        "idItem": 27,
+        "idItem": "27",
         "productId": "NewIn",
-        "name": "Jersey de canalé en mezcla de cachemira",
-        "stock": 30,
+        "name": "Jersey de canalé, en mezcla de cachemira",
+        "stock": 2000,
         "price": 15000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fab%2F55%2Fab551c84de51e170450073a57254cfed5c4bf89e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3e%2F9b%2F3e9bd97064b42c349f9ffa5dde80c6d74acf0169.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -420,10 +406,10 @@
         "newIn": true
     },
     {
-        "idItem": 28,
+        "idItem": "28",
         "productId": "Camperas&Sweaters",
-        "name": "Jersey en punto de canalé con media cremallera",
-        "stock": 30,
+        "name": "Jersey en punto de canalé, con media cremallera",
+        "stock": 2000,
         "price": 15000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff6%2F0a%2Ff60a77ea0a0520bcb81eacec2a3fc22432edf450.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe6%2Fc6%2Fe6c6ac1fdd90343b2e00dab72f21eb424c094c9a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -435,10 +421,10 @@
         "newIn": true
     },
     {
-        "idItem": 29,
+        "idItem": "1",
         "productId": "Camperas&Sweaters",
         "name": "Jersey en punto grueso",
-        "stock": 30,
+        "stock": 2000,
         "price":8000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc8%2Fd1%2Fc8d18e03b840c8c6da2f46937d0243c4cb90829f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F62%2F3c%2F623c53002981e65f23f8de2c3810dc15228ea86f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -450,10 +436,10 @@
         "newIn": true
     },
     {
-        "idItem": 30,
+        "idItem": "30",
         "productId": "Camperas&Sweaters",
         "name": "Jersey de cuello alto - Naranja",
-        "stock": 30,
+        "stock": 2000,
         "price": 6000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2F31%2Fc631b9d5b90960499a0b44aeef0838c8362e406f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb9%2F57%2Fb95759543d4c974c0d96626fb027faf842918543.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -465,10 +451,10 @@
         "newIn": true
     },
     {
-        "idItem": 31,
+        "idItem": "31",
         "productId": "NewIn",
         "name": "Jersey de cuello alto - Azul Claro",
-        "stock": 30,
+        "stock": 2000,
         "price": 6000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F2b%2F832bb47bb34907c35ac09202a2d1c940950b91f5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff6%2F95%2Ff69533c01934481c8fb38c4ec3ec14612a1c9f2f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -480,10 +466,10 @@
         "newIn": true
     },
     {
-        "idItem": 32,
+        "idItem": "32",
         "productId": "Camperas&Sweaters",
         "name": "Jersey de cuello alto - Verde",
-        "stock": 30,
+        "stock": 2000,
         "price": 6000,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb0%2F51%2Fb0514d0c04378421aa05ec52bb93299213f81e23.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F41%2F6e%2F416e3c283f12df2e3b656c4473539644b59b94f2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -495,10 +481,10 @@
         "newIn": true
     },
     {
-        "idItem": 33,
+        "idItem": "33",
         "productId": "Remeras/Crop",
         "name": "Top corto de algodón - Naranja",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fce%2F93%2Fce93a208932010a2fb03f7dc05eb58797d92099e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8c%2F40%2F8c409a376b3d586e4b76b49e5b928db2b4abb523.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -510,10 +496,10 @@
         "newIn": true
     },
     {
-        "idItem": 34,
+        "idItem": "34",
         "productId": "Remeras/Crop",
         "name": "Camiseta de canalé de tirantes - Negra",
-        "stock": 30,
+        "stock": 2000,
         "price": 2500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6a%2F9f%2F6a9f7c878bfe75a5fda6e04f386e944d2c2d35e2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_tops_vests%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff9%2F2d%2Ff92d3ffb4fdbf26d1d70b16ccbfcdb2687504f02.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_tops_vests%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -525,10 +511,10 @@
         "newIn": true
     },
     {
-        "idItem": 35,
+        "idItem": "35",
         "productId": "Remeras/Crop",
         "name": "Remeron Sol",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7d%2Fbd7d5ea1e49204213f63d3bea742cf56bdbb5137.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7b%2F55%2F7b55bd7f6bfed2878335e146ae5f854014fb2335.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -540,10 +526,10 @@
         "newIn": false
     },
     {
-        "idItem": 36,
+        "idItem": "36",
         "productId": "Remeras/Crop",
         "name": "Remeron Good karma",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F69%2F8d%2F698dd4746d54b46f0ac1d45af67b586c56dee779.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F06%2Fb8%2F06b8321fd2191983e7b8b8b19f3f929457cf7905.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -555,10 +541,10 @@
         "newIn": false
     },
     {
-        "idItem": 37,
+        "idItem": "37",
         "productId": "outlet",
         "name": "Camiseta cropped - Naranja",
-        "stock": 30,
+        "stock": 2000,
         "price": 2500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F45%2F42%2F45423ea4fb4c0e2faf8557e347bc07a0b89de006.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F02%2Fd5%2F02d572e24c4b7932207f9b484efd820aa04de5a4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -570,10 +556,10 @@
         "newIn": false
     },
     {
-        "idItem": 38,
+        "idItem": "38",
         "productId": "outlet",
         "name": "Camiseta cropped - Dramatic",
-        "stock": 30,
+        "stock": 2000,
         "price": 2500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4f%2Fc6%2F4fc6c61be29937d9b43ac7c3a84b6fa6b352e7b9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_croppedtops%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd8%2F8a%2Fd88a611192d3aca590df54d79e00884d371c6e3a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -585,10 +571,10 @@
         "newIn": false
     },
     {
-        "idItem": 39,
+        "idItem": "39",
         "productId": "outlet",
         "name": "Camiseta cropped en canalé - Negra",
-        "stock": 30,
+        "stock": 2000,
         "price": 1500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2F3c%2F2d3c14ff7974d94358017bf16bb8c0c22d1e2d8f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fed%2F14%2Fed142d4134cb3eb0617b91e1416b24e2c8548047.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -600,10 +586,10 @@
         "newIn": false
     },
     {
-        "idItem": 40,
+        "idItem": "40",
         "productId": "outlet",
         "name": "Camiseta cropped en canalé - Rayas",
-        "stock": 30,
+        "stock": 2000,
         "price": 1500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe5%2Fb5%2Fe5b53b644bcc9d2542f0fc69032f03befa5b4f3d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1d%2F85%2F1d857a39df75c34dcc7ee75e5292685b16450431.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -615,10 +601,10 @@
         "newIn": false
     },
     {
-        "idItem": 41,
+        "idItem": "41",
         "productId": "outlet",
         "name": "Top corto de algodón - Gris",
-        "stock": 30,
+        "stock": 2000,
         "price": 1500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F41%2Fd1%2F41d1a860a75dee5083ad4561010577065c22d0ae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3e%2F35%2F3e351321abe743f0e7ce8c8fbac57c745c9fa31b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -630,10 +616,10 @@
         "newIn": false
     },
     {
-        "idItem": 42,
+        "idItem": "42",
         "productId": "outlet",
         "name": "Camiseta de canalé de tirantes - Gris",
-        "stock": 30,
+        "stock": 2000,
         "price": 2500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F16%2F65%2F166547cd374ee86e33c8462181f4143d1ae0a53b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F50%2Fea%2F50ea27987142568f729f6485e28990c6514bc9ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -645,10 +631,10 @@
         "newIn": false
     },
     {
-        "idItem": 43,
+        "idItem": "43",
         "productId": "outlet",
         "name": "Remeron California",
-        "stock": 30,
+        "stock": 2000,
         "price": 2500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa6%2Fde%2Fa6de0df3e4d153f634049bea8fa65c500f75fd8a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F20%2F04%2F20044559bbce0d6e9cccc59ab436889f0900b55c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -660,10 +646,10 @@
         "newIn": false
     },
     {
-        "idItem": 44,
+        "idItem": "44",
         "productId": "outlet",
         "name": "Vestido halter largo",
-        "stock": 30,
+        "stock": 2000,
         "price": 4500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe2%2Fed%2Fe2edfd2dd369ff35faf9f9f444994878b4fd9151.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0c%2F25%2F0c25b8fec614632dc083939e6702c44be18b932d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -675,10 +661,10 @@
         "newIn": false
     },
     {
-        "idItem": 45,
+        "idItem": "45",
         "productId": "outlet",
         "name": "Vestido estampado",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F77%2F1d%2F771deb8db2153305b1c0554bf36b9d2803316955.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9c%2F3c%2F9c3c4abdfeb185d1e5e2a732cc34c25d0348695d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -690,10 +676,10 @@
         "newIn": false
     },
     {
-        "idItem": 46,
+        "idItem": "46",
         "productId": "outlet",
         "name": "Vestido largo con escote de pico",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdc%2F95%2Fdc956f5b4611c9ec7314a17a088e1978815e9f2d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F19%2F01%2F190125d766aebe12c61da69162eff09e9f0a61cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -705,10 +691,10 @@
         "newIn": false
     },
     {
-        "idItem": 47,
+        "idItem": "47",
         "productId": "outlet",
         "name": "Remeron - Vestido(Negro)",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F54%2Fca%2F54cac71d08d727abc376e877853a78e01295cf5d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9d%2F99%2F9d99ef2deb646fc2ad13693f7048fd43ca1ffb1d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -719,10 +705,10 @@
         "onSale": true,
         "newIn": false
     },{
-        "idItem": 48,
+        "idItem": "48",
         "productId": "outlet",
         "name": "Remeron - Vestido(Beige)",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fab%2F31%2Fab310fad3792690f7874678fbdd346ba0f258ab5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/mobilemain]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd2%2Fd8%2Fd2d857b222861ddd82e579e9b6ea69f1b5348b1a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -734,10 +720,10 @@
         "newIn": false
     },
     {
-        "idItem": 49,
+        "idItem": "49",
         "productId": "outlet",
         "name": "Traje de baño High leg",
-        "stock": 30,
+        "stock": 2000,
         "price": 4500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0c%2Fac%2F0cac157262125bcdd6e0a3f7c3808f5992db4eea.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fab%2F2e%2Fab2e93e2d4257d19eb49d04a41f4c7b0d312bfbe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -749,10 +735,10 @@
         "newIn": false
     },
     {
-        "idItem": 50,
+        "idItem": "50",
         "productId": "outlet",
         "name": "Bikini Shortie",
-        "stock": 30,
+        "stock": 2000,
         "price": 3500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe5%2F5b%2Fe55be7dceea9c64e0179955edbad89292a7b3626.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F20%2F80%2F20809a49b321130f63a83bd484d29a9b1928de9f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
@@ -764,7 +750,7 @@
         "newIn": false
     },
     {
-        "idItem": 51,
+        "idItem": "51",
         "productId": "outlet",
         "name": "Padded triangle bikini top",
         "stock": 20,
@@ -779,10 +765,10 @@
         "newIn": false
     },
     {
-        "idItem": 52,
+        "idItem": "52",
         "productId": "outlet",
         "name": "Traje de baño moldeador",
-        "stock": 30,
+        "stock": 2000,
         "price": 4500,
         "imgId": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2Fe1%2Fbfe1b4ed72abac7412e1989d10a883ab41e275b8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "imgId1": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F67%2Ff4%2F67f44d56c6f31affcf2d9f4fbc21e63871f2c6a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",

@@ -1,12 +1,30 @@
 import { createContext, useState } from "react";
+import Swal from "sweetalert2";
+
 export const CartContext = createContext();
+
 const CartContextProvider = ({ children }) => {
-    const [cartList, setCartList] = useState([])
+    
+    const emptyCart = () =>{
+        return(
+            
+            Swal.fire({
+              position: 'center',
+              showConfirmButton: false,
+              title: ``,
+              text:'Carrito Vacio',
+              timer: 1000
+                })
+    )
+    }
+
+    const [cartList, setCartList] = useState([]);
+
     const addToCart = (item, qty) => {
         const found = cartList.find(element => element.id === item.id);
         if (found) {
             found.qty += qty;
-            found.totalPrice=found.qty*item.price;
+            found.totalPrice = found.qty * item.price;
             setCartList([...cartList])
         }
         else {
@@ -18,12 +36,11 @@ const CartContextProvider = ({ children }) => {
                     name: item.name,
                     price: item.price,
                     qty: qty,
-                    imgId: item.imgId,
+                    imgId: item.imgId2,
                     totalPrice: item.price * qty,
                     onSale: item.onSale
                 }]);
         }
-
     }
     const removeAll = () => {
         setCartList([]);
@@ -32,16 +49,19 @@ const CartContextProvider = ({ children }) => {
     const removeItem = (id) => {
         let newCartList = cartList.filter(element => element.id !== id);
         setCartList(newCartList);
+        if(newCartList.length===0){
+            emptyCart()
+        }
     }
     const calcTotal = () => {
-        let total=0;
-        if(cartList){
+        let total = 0;
+        if (cartList) {
             cartList.forEach(element =>
-                total+=element.totalPrice
-             )
-             return total
+                total += element.totalPrice
+            )
+            return total
         }
-       
+
     }
     const calcDescuento = () => {
         let totalDesc = 0;
@@ -53,7 +73,6 @@ const CartContextProvider = ({ children }) => {
         });
         return totalDesc;
     }
-
     return (
         <CartContext.Provider value={{ cartList, addToCart, removeAll, removeItem, calcTotal, calcDescuento }}>
             {children}

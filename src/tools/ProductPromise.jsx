@@ -1,5 +1,7 @@
 let flag=true;
+
 const ProductPromise = (time,task)=>{
+    
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
             if(flag){

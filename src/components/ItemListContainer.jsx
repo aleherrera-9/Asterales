@@ -2,7 +2,7 @@ import { useEffect,useState } from "react";
 import ItemList from "./ItemList";
 import { fetchFirestore } from "../tools/firestoreInfo";
 import { useParams } from "react-router-dom";
-import{ILContainer} from "../tools/styledComponents"
+import{ILContainer} from "../tools/styledComponents";
 
 const ItemListContainer = () => {
     const [allData, setDatos] = useState([]);

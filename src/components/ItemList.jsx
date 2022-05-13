@@ -1,4 +1,6 @@
 import Item from './Item';
+import Spinner from 'react-bootstrap/Spinner';
+
 const ItemList=({items})=>{
   
     return(
@@ -6,8 +8,10 @@ const ItemList=({items})=>{
         {
         items.length>0
         ?
-            items.map(item=><Item item={item} key={item.id+1}/>)
-            :<div>Cargando...</div> 
+            items.map(item=><Item item={item} key={item.id}/>)
+            :<Spinner animation="border" role="status" className='m-4'>
+            <span className="visually-hidden">Loading...</span>
+          </Spinner>
         }
       </>
         )

@@ -1,28 +1,43 @@
 import image from '../images/logo.png';
 import { Link } from 'react-router-dom';
-import  {CartContext}  from "./CartContext";
+import { CartContext } from "./CartContext";
 import { useContext } from "react";
 import CartWidget from './CartWidget';
-import {NavItem,Nav,DecorationLine} from '../tools/styledComponents';
+import Nav from 'react-bootstrap/Nav';
+import { NavItem } from '../tools/styledComponents';
+
 const Navbar = () => {
+
     const test = useContext(CartContext);
+
     return (
         <>
-        <div className="text-center">
-        <Link to='/'><img className="nav-imagen"src={image}/></Link>
-        </div>
-        {test.cartList.length>0&&(
-        <CartWidget></CartWidget>
-        )}
-        <Nav className='m-4' >
-                <NavItem to='/NewIn'>Novedades</NavItem>
-                <NavItem to='/Camisas&Blusas'>Camisas&Blusas</NavItem>
-                <NavItem to='/Camperas&Sweaters'>Camperas&Sweaters</NavItem>
-                <NavItem to='/outlet'>Sale</NavItem>
-        </Nav>
-        <DecorationLine/>
-        </>
         
-    );
+            <div className="text-center sticky-top bg-nav">
+                <Link to='/'><img className="nav-imagen" alt =""src={image} /></Link>
+                <Nav className="justify-content-center p-3">
+                    <Nav.Item>
+                        <NavItem to='/NewIn'>Novedades</NavItem>
+                    </Nav.Item>
+                    <Nav.Item>
+                        <NavItem to='/Camisas&Blusas'>Camisas & Blusas</NavItem>
+                    </Nav.Item>
+                    <Nav.Item>
+                        <NavItem to='/Camperas&Sweaters'>Camperas & Sweaters</NavItem>
+                    </Nav.Item>
+                    <Nav.Item>
+                        <NavItem to='/outlet' className='text-danger'>Sale</NavItem>
+                    </Nav.Item>
+                    <Nav.Item>
+                        {test.cartList.length > 0 && (
+                            <CartWidget />
+                        )}
+                    </Nav.Item>
+                </Nav>
+                
+            </div>
+            
+</>
+    )
 }
 export default Navbar;

@@ -1,8 +1,10 @@
 import db from './fireBaseConfig'
 import { query, where, collection, getDocs} from '@firebase/firestore';
 import { doc, getDoc } from "firebase/firestore";
+
 export const fetchFirestore =async(idCategory)=>{
     let newArray;
+
     if (idCategory) {
         newArray = query(collection(db, "products"), where('productId', '==', idCategory));
     } else {
@@ -10,14 +12,17 @@ export const fetchFirestore =async(idCategory)=>{
     }
 
     const querySnapshot =await getDocs(newArray);
+
     const firestoreData= querySnapshot.docs.map((doc)=>({
         id:doc.id,
         ...doc.data()
     })); 
+
     return firestoreData;
 }
 
 export const fetchFirestoreItemDetail = async (itemId) => {
+    
     const docRef = doc(db, "products", itemId);
     const docSnap = await getDoc(docRef);
     
