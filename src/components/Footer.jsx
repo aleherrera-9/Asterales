@@ -1,16 +1,18 @@
+import {FooterStyle,ButtonFooter,ListUl,ListLi,Info,DecorationLine} from "../tools/styledComponents";
 const Footer = () => {
 return(
     <>
-    <hr/>
-    <div className="text-center Footer">
-        <p>CONTACTO</p>
-        <ul >
-            <li ><a >0810 120 7758 </a></li> 
-            <li ><a>AYUDA@ASTERALES.COM.AR </a></li>
-            <li ><a>NUESTROS LOCALES </a></li>
-        </ul>
-        <p>Registrate para recibir ofertas</p>
-    </div>
+    <DecorationLine/>
+    <FooterStyle>
+        <Info>CONTACTO</Info>
+        <ListUl >
+            <ListLi key='001'></ListLi> 
+            <ListLi key='111'>0810 120 7758 </ListLi> 
+            <ListLi key='222'>AYUDA@ASTERALES.COM.AR  </ListLi>
+            <ListLi key='333'>Instagram </ListLi>
+        </ListUl>
+        <ButtonFooter to="/register">Registrate para recibir ofertas</ButtonFooter>
+    </FooterStyle>
     </>
 )
 }
