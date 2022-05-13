@@ -56,4 +56,4 @@ En caso de que la pagina no se genere automaticamente abrir el [http://localhost
 La pagina se recarga al hacer cambios.
 ```
 ###### Desarrolladora 👩‍🔧
-- [AlejandraHerrera]https://github.com/aleherrera-9
+- [AlejandraHerrera](https://github.com/aleherrera-9)
